@@ -134,6 +134,8 @@ public class BMICalc extends JFrame {
 		txtrWelcome.setFont(new Font("Arial", Font.PLAIN, 12));
 		txtrWelcome.setLineWrap(true);
 		txtrWelcome.setText("Welcome to the BMI calculator \r\n\r\nPlease provide your height  (in feet and inches) and weight,\r\nand we'll let you know what your BMI (Body Mass Index) is.");
+		#deutsch
+		
 		txtrWelcome.setBounds(10, 11, 386, 78);
 		contentPane.add(txtrWelcome);
 		
